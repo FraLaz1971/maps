@@ -4,8 +4,3 @@
 +51.6	-9.3	Plato
 +23.73	-47.49	Aristarchus
 -8.9	+60.9	Langrenus
-90	0	top
--90	0	bottom
-0	-90	west
-0	90	east
-
